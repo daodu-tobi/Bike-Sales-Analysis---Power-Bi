@@ -92,7 +92,7 @@ Snapshot of visuals of the above analysis
 
 - My analysis shows that the lowest revenue was generated in 2011 and 2012 with approximately 9million and 9.2million respectively.  
 
-- Revenue incresed significantly in 2013 with about 6million increase over the previous years
+- Revenue increased significantly in 2013 with about 6million increase over the previous years
 
 - Highest revenue was made in 2015 with over 20millon plus generated.
 
